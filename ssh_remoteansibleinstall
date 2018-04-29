@@ -1,0 +1,1 @@
+ssh hst6 sudo apt-get update -y && ssh hst6 sudo apt-get install ansible -y && ssh hst6 sudo apt-get install python-apt -y
